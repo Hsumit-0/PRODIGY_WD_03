@@ -32,7 +32,6 @@ Two players take turns to play. Game handles win detection, draw, and restart.
 
 ## 🔗 Live Site
 
-Coming soon:  
 [https://hsumit-0.github.io/PRODIGY_WD_03](https://hsumit-0.github.io/PRODIGY_WD_03)
 
 ---
